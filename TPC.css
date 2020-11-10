@@ -1,0 +1,28 @@
+.Icone{
+height: 60px;
+
+}
+
+#Main_Content{
+	width: 100%;
+	margin: 3px;
+	border-image: 50px;
+
+
+}
+
+#Main_Content_Video{
+	height: 100%;
+	width: 100%;
+	margin: 3px;
+	border-image: 50px;
+
+
+
+}
+
+#Content_Central{
+	margin: 0px 3px 3px 3px;
+
+
+}

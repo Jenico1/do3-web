@@ -1,0 +1,63 @@
+body {
+	background: #EEE;
+
+
+}
+
+.area-menu {
+	background: red;
+	height: 90px;
+}
+
+.logo{
+	background: green;
+
+}
+
+.menu{
+	background: magenta;
+
+
+}
+
+.icone {
+	background: #C3F3DD;
+
+}
+
+.area-destaque{
+	height: 280px;
+	background: purple;
+
+
+}
+
+.area-conteudo-1 {
+	background: yellow;
+	height: 300px;
+
+
+}
+
+.area-conteudo-2 {
+	background: blue;
+	height: 500px;
+
+}
+
+#rodape {
+	margin-top: 30px;
+
+}
+
+.fundo-verde {
+	background: green;
+	height: 250px;
+
+}
+
+.fundo-cinza {
+	background: gray;
+	height: 250px;
+
+}

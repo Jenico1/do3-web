@@ -1,0 +1,89 @@
+body{
+	background: #1B1A28;
+}
+
+.icone{
+	height: 90px;
+	width: 100%;
+	position: relative;
+
+}
+
+.nav-link{
+	color:#BE1427;
+	font-family: sans-serif;
+}
+
+.topic_explore_wikis.in-area-main{
+	margin: 9px auto;
+	margin-bottom: 12px;
+
+}
+
+.topic_explore_wikis_link{
+	color: black;
+	font-family: sans-serif;
+
+
+
+}
+
+
+.topic_explore_wikis{
+	background: #86858B;
+	border-radius: 4px;
+	margin-bottom: 12px;
+	padding: 12px;
+}
+
+
+
+.topic_explore_wikis_title{
+	border-bottom: 3.4px solid #BE1427;
+	display: inline-block;
+	font-size: 24px;
+	margin: 0;
+
+}
+
+.image-rounder{
+	border-bottom: 3.4px solid #BE1427;
+	display: inline-block;
+	font-size: 24px;
+	margin: 0;
+	height: 90px;
+	border-radius: 4px;
+	padding: 12px;
+	position: relative;
+}
+
+#image-left{
+	height: 60px;
+	position: relative;
+
+
+}
+
+.card-title{
+	color: #86858B;
+	font-family: sans-serif;
+
+}
+
+.card-body{
+	background-color: #2E3140; 
+}
+
+.Card_image{
+	width: 100%;
+	margin: 3px;
+	border-image: 50px;
+
+
+}
+
+#Main_Content{
+	width: 100%;
+	margin: 3px;
+	border-image: 50px;
+} 
