@@ -57,8 +57,8 @@ body{
 	position: relative;
 }
 
-#image-left{
-	height: 60px;
+.image-left{
+	height: 200px;
 	position: relative;
 
 
