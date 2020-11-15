@@ -1,0 +1,47 @@
+body{
+	background: #1B1A28;
+}
+
+.icone{
+	height: 90px;
+	width: 100%;
+	position: relative;
+
+}
+
+.nav-link{
+	color:#BE1427;
+	font-family: sans-serif;
+}
+
+.image-left{
+	height: 200px;
+	position: relative;
+
+
+}
+
+.col-12-forums{
+	background-color: #2E3140;
+	height: 350px;
+	width: 350px;
+
+}
+
+.imagem-forum{
+	height: 120px;
+	position: relative;
+}
+
+.text-content{
+	font-family: sans-serif;
+	text-align: center;
+	color: white;
+
+}
+
+.titulo-forum{
+	text-align: center;
+	font-family: sans-serif;
+	color: white;
+}
