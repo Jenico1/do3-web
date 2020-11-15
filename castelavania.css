@@ -1,0 +1,45 @@
+body{
+	background: #1B1A28;
+}
+
+.icone{
+	height: 90px;
+	width: 100%;
+	position: relative;
+
+}
+
+.nav-link{
+	color:#BE1427;
+	font-family: sans-serif;
+}
+
+.image-left{
+	height: 200px;
+	position: relative;
+
+
+}
+
+.imagem-noticia{
+	height: 400px;
+	position: relative;
+
+
+}
+
+.titulo-noticia{
+	color: white;
+	font-family: sans-serif;
+	text-align: center;
+
+
+}
+
+.text-content{
+	color: white;
+	text-align: left;
+	font-family: sans-serif;
+
+
+}
