@@ -43,3 +43,21 @@ body{
 	font-family: sans-serif;
 
 }
+
+.text-footer{
+	color: #86858B;
+	font-family: sans-serif;
+	text-align: left;
+}
+
+.title-footer{
+	color: red;
+	font-family: sans-serif;
+	text-align: left
+}
+
+#redes-sociais{
+	color: #86858B;
+	font-family: sans-serif;
+	text-align: center;
+}
