@@ -45,3 +45,31 @@ body{
 	font-family: sans-serif;
 	color: white;
 }
+
+.title-footer{
+	color: red;
+	font-family: sans-serif;
+	text-align: left;
+	font-weight: bold;
+	font-size: 15px;
+
+}
+
+.text-footer{
+	color: #86858B;
+	font-family: sans-serif;
+	text-align: left;
+	font-weight: bold;
+	font-size: 15px;
+
+
+}
+
+#redes-sociais{
+	color: #86858B;
+	font-family: sans-serif;
+	text-align: center;
+	font-weight: bold;
+	font-size: 15px;
+
+}
