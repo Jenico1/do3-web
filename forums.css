@@ -49,7 +49,7 @@ body{
 .titulo-footer{
 	color: red;
 	font-family:sans-serif; 
-	text-align: left;
+	text-align: center;
 	font-weight: bold;
 
 }
@@ -57,7 +57,7 @@ body{
 .text-footer{
 	color: #86858B;
 	font-family:sans-serif; 
-	text-align: left;
+	text-align: center;
 	font-weight: bold;
 
 }
