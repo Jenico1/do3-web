@@ -12,6 +12,7 @@ body{
 .nav-link{
 	color:#BE1427;
 	font-family: sans-serif;
+	font-weight: bold;
 }
 
 
@@ -19,7 +20,7 @@ body{
 	color: #BE1427;
 	margin-left: 25px;
 
-	}
+}
 
 .form-control{
 	margin-left: 5px;
@@ -45,6 +46,7 @@ body{
 .topic_explore_wikis_link{
 	color: black;
 	font-family: sans-serif;
+	font-weight: bold;
 
 
 }
@@ -89,6 +91,7 @@ body{
 	color: #86858B;
 	font-family: sans-serif;
 	font-size: 17px;
+	font-weight: bold;
 
 }
 

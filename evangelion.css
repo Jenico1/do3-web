@@ -12,6 +12,7 @@ body{
 .nav-link{
 	color:#BE1427;
 	font-family: sans-serif;
+	font-weight: bold;
 }
 
 .bi-person-fill{

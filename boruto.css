@@ -20,7 +20,7 @@ body{
 	color: #BE1427;
 	margin-left: 25px;
 
-	}
+}
 
 .form-control{
 	margin-left: 5px;
@@ -37,21 +37,28 @@ body{
 
 }
 
-.imagem-resenha{
+.imagem-noticia{
 	height: 400px;
 	position: relative;
+
+
 }
 
-.titulo-resenha{
+.titulo-noticia{
 	color: white;
 	font-family: sans-serif;
-	font-weight: bold;
 	text-align: left;
+	font-weight: bold;
+
+
 }
 
 .text-content{
 	color: white;
+	text-align: left;
 	font-family: sans-serif;
+
+
 }
 
 .image-left{

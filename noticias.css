@@ -20,7 +20,7 @@ body{
 	color: #BE1427;
 	margin-left: 25px;
 
-	}
+}
 
 .form-control{
 	margin-left: 5px;
@@ -37,21 +37,24 @@ body{
 
 }
 
-.imagem-resenha{
-	height: 400px;
-	position: relative;
-}
-
-.titulo-resenha{
-	color: white;
+.card-title{
+	color: #86858B;
 	font-family: sans-serif;
+	font-size: 17px;
 	font-weight: bold;
-	text-align: left;
+
 }
 
-.text-content{
-	color: white;
-	font-family: sans-serif;
+.card-body{
+	background-color: #2E3140; 
+}
+
+.Card_image{
+	width: 100%;
+	margin: 3px;
+	border-image: 50px;
+
+
 }
 
 .image-left{
@@ -78,3 +81,4 @@ body{
 	font-family: sans-serif;
 	text-align: center;
 }
+
