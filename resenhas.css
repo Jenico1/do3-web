@@ -1,0 +1,96 @@
+body{
+	background: #1B1A28;
+}
+
+.icone{
+	height: 100px;
+	width: 100%;
+	position: relative;
+
+}
+
+.nav-link{
+	color:#BE1427;
+	font-family: sans-serif;
+}
+
+
+.bi-person-fill{
+	color: #BE1427;
+	margin-left: 35px;
+
+	}
+
+.form-control{
+	margin-left: 5px;
+}
+
+.btn-outline-success{ hover
+	color: black;
+	background: #86858B;
+}
+
+.bi-search{
+	color: black;
+
+
+}
+
+.row-quadrado{
+	background-color: #2E3140;
+	height: 40%;
+	width: 70%;
+	margin-left: 65px;
+	position: relative;
+}
+
+.title-resenha{
+	color: white;
+	font-family: sans-serif;
+	font-weight: bold;
+	margin-left: 10px;
+
+}
+
+.image-resenha{
+	height: 150px;
+	margin-left: 10px;
+	position: relative;
+	margin-right: 7px;
+	margin-bottom: 7px;
+
+
+}
+
+.text-resenha{
+	font-family: sans-serif;
+	color: white;
+	text-align: left;
+
+}
+
+.image-left{
+	height: 200px;
+	position: relative;
+
+
+}
+
+.text-footer{
+	color: #86858B;
+	font-family: sans-serif;
+	text-align: left;
+}
+
+.title-footer{
+	color: #BE1427;
+	font-family: sans-serif;
+	text-align: left;
+}
+
+#redes-sociais{
+	color: #86858B;
+	font-family: sans-serif;
+	text-align: center;
+}
+

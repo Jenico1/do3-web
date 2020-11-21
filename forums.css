@@ -14,6 +14,27 @@ body{
 	font-family: sans-serif;
 }
 
+.bi-person-fill{
+	color: #BE1427;
+	margin-left: 35px;
+
+	}
+
+.form-control{
+	margin-left: 5px;
+}
+
+.btn-outline-success{ hover
+	color: black;
+	background: #86858B;
+}
+
+.bi-search{
+	color: black;
+
+
+}
+
 .image-left{
 	height: 200px;
 	position: relative;

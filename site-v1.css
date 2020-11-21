@@ -3,7 +3,7 @@ body{
 }
 
 .icone{
-	height: 90px;
+	height: 100px;
 	width: 100%;
 	position: relative;
 
@@ -12,6 +12,28 @@ body{
 .nav-link{
 	color:#BE1427;
 	font-family: sans-serif;
+}
+
+
+.bi-person-fill{
+	color: #BE1427;
+	margin-left: 35px;
+
+	}
+
+.form-control{
+	margin-left: 5px;
+}
+
+.btn-outline-success{ hover
+	color: black;
+	background: #86858B;
+}
+
+.bi-search{
+	color: black;
+
+
 }
 
 .topic_explore_wikis.in-area-main{
@@ -41,7 +63,7 @@ body{
 	border-bottom: 2.5px solid #BE1427;
 	display: inline-block;
 	font-size: 24px;
-	margin: 0;
+	margin: 1;
 
 }
 
