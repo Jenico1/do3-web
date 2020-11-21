@@ -1,0 +1,47 @@
+body{
+	background: #CCC;
+	font-family: sans-serif;
+}
+
+#menu ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+
+}
+
+#menu ul li:{
+	display: inline-block;
+	margin: 2px;
+	height: 50px;
+	/*width: 120px;*/
+
+}
+
+#menu ul li: hover{
+	background: #fd3a69;
+
+
+}
+
+#menu ul li a {
+	text-decoration: none;
+	color: #fd3a69;
+}
+
+#menu ul li a: hover {
+	background: #f2c3ac;
+}
+
+#menu ul {
+	background-image: url 
+}
+
+.nav-link {
+	color: yellow;
+	font-family: sans-serif;
+}
+
+#titulo{
+	font-family: serif;
+}
