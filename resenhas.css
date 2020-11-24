@@ -3,8 +3,8 @@ body{
 }
 
 .icone{
-	height: 100px;
-	width: 100%;
+	height: 110px;
+	width: 120px;
 	position: relative;
 
 }
@@ -70,9 +70,10 @@ body{
 
 }
 
-.image-left{
+.image-right{
 	height: 200px;
 	position: relative;
+	opacity: 0.36;
 
 
 }
