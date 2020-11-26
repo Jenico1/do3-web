@@ -56,10 +56,24 @@ body{
 	position: relative;
 }
 
+#anitube-logo{
+	height: 110px;
+	position: relative;
+}
+
 .text-content{
 	font-family: sans-serif;
 	text-align: center;
 	color: white;
+
+}
+
+#p1{
+	font-family: sans-serif;
+	color: white;
+	text-align: left;
+	margin-left: 10px;
+
 
 }
 

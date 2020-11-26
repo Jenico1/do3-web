@@ -1,0 +1,88 @@
+body{
+	background: #1B1A28;
+}
+
+.icone{
+	height: 110px;
+	width: 120px;
+	position: relative;
+
+}
+
+.nav-link{
+	color:#BE1427;
+	font-family: sans-serif;
+	font-weight: bold;
+}
+
+
+.bi-person-fill{
+	color: #BE1427;
+	margin-left: 25px;
+
+}
+
+.form-control{
+	margin-left: 5px;
+}
+
+.btn-outline-success{ hover
+	color: black;
+	background: #86858B;
+}
+
+.bi-search{
+	color: black;
+
+
+}
+
+.imagem-noticia{
+	height: 400px;
+	position: relative;
+
+
+}
+
+.titulo-noticia{
+	color: white;
+	font-family: sans-serif;
+	text-align: left;
+	font-weight: bold;
+
+
+}
+
+.text-content{
+	color: white;
+	text-align: left;
+	font-family: sans-serif;
+
+
+}
+
+.image-right{
+	height: 200px;
+	position: relative;
+	opacity: 0.36;
+
+
+}
+
+.text-footer{
+	color: #86858B;
+	font-family: sans-serif;
+	text-align: left;
+}
+
+.title-footer{
+	color: #BE1427;
+	font-family: sans-serif;
+	text-align: left;
+}
+
+#redes-sociais{
+	color: #86858B;
+	font-family: sans-serif;
+	text-align: center;
+}
