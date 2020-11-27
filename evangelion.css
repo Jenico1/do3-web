@@ -36,6 +36,40 @@ body{
 
 }
 
+.dropdown-menu{
+	display: none;
+	background: #2E3140;
+	width: 230px;
+	height: 260px;
+	border: 1px solid black;
+	margin-left: 160px;
+
+}
+
+.form-control-1{
+	background: #86858B;
+}
+
+.form-group{
+	color: #86858B;
+	font-family: sans-serif;
+	margin-left: 5px;
+}
+
+.btn-primary{
+	background: #BE1427;
+	color: #2E3140;
+	font-family: sans-serif;
+	margin-left: 5px;
+}
+
+.dropdown-item{
+	color: #86858B;
+	font-family: sans-serif;
+	margin-left: -23px;
+	font-size: 14px;
+}
+
 .image-right{
 	height: 200px;
 	position: relative;
