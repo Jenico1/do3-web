@@ -144,12 +144,6 @@ body{
 
 }
 
-#Main_Content{
-	width: 100%;
-	margin: 3px;
-	border-image: 50px;
-} 
-
 .text-footer{
 	color: #86858B;
 	font-family: sans-serif;
