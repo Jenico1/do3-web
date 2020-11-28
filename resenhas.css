@@ -97,6 +97,8 @@ body{
 }
 
 .image-resenha{
+	float: left;
+	margin: 0px 15px 15px 0px;
 	height: 180px;
 	margin-left: 10px;
 	position: relative;
