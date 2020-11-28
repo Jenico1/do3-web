@@ -40,7 +40,7 @@ body{
 	display: none;
 	background: #2E3140;
 	width: 230px;
-	height: 260px;
+	height: 285px;
 	border: 1px solid black;
 	margin-left: 160px;
 
@@ -48,19 +48,27 @@ body{
 
 .form-control-1{
 	background: #86858B;
+	margin-top: -15px;
 }
 
 .form-group{
 	color: #86858B;
 	font-family: sans-serif;
-	margin-left: 5px;
+	margin-left: -20px;
+	margin-top: -15px;
 }
 
 .btn-primary{
 	background: #BE1427;
 	color: #2E3140;
 	font-family: sans-serif;
-	margin-left: 5px;
+	margin-left: -20px;
+	margin-top: -15px;
+}
+
+.dropdown-divider{
+	margin-top: -7px;
+
 }
 
 .dropdown-item{
@@ -68,6 +76,7 @@ body{
 	font-family: sans-serif;
 	margin-left: -20px;
 	font-size: 14px;
+	
 }
 
 .image-right{
@@ -106,16 +115,22 @@ body{
 	color: #86858B;
 	font-family: sans-serif;
 	text-align: left;
+	font-weight: bold;
+	margin-left: -55px;
 }
 
 .title-footer{
 	color: #BE1427;
 	font-family: sans-serif;
 	text-align: left;
+	font-weight: bold;
+	margin-left: -45px;
 }
 
 #redes-sociais{
 	color: #86858B;
 	font-family: sans-serif;
 	text-align: center;
+	font-weight: bold;
+	margin-left: 10px;
 }
