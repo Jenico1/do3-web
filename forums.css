@@ -15,26 +15,52 @@ body{
 	font-weight: bold;
 }
 
+#n1:hover {
+	background: black;
+	color: white;
+}
+
+#n2:hover {
+	background: black;
+	color: white;
+}
+
+#n3:hover {
+	background: black;
+	color: white;
+}
+
 .bi-person-fill{
 	color: #BE1427;
 	margin-left: 23px;
+	position: relative;
 
-	}
+}
 
 .form-control{
 	margin-left: 5px;
 }
 
-.btn-outline-success{ hover
+.btn-outline-success{
 	color: black;
 	background: #86858B;
 }
+
+.btn-outline-success:hover {
+	background: orange;
+}
+
 
 .bi-search{
 	color: black;
 
 
 }
+
+.bi-search:hover {
+	color: white;
+}
+
 
 .dropdown-menu{
 	display: none;
@@ -138,6 +164,30 @@ body{
 
 }
 
+#p4{
+	font-family: sans-serif;
+	color: white;
+	text-align: left;
+	margin-left: 10px;
+
+}
+
+#p5{
+	font-family: sans-serif;
+	color: white;
+	text-align: left;
+	margin-left: 10px;
+
+}
+
+#p6{
+	font-family: sans-serif;
+	color: white;
+	text-align: left;
+	margin-left: 10px;
+
+}
+
 
 
 .titulo-forum{
@@ -145,6 +195,7 @@ body{
 	font-family: sans-serif;
 	color: white;
 	font-weight: bold;
+	margin-top: 2px;
 }
 
 .text-footer{

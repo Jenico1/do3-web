@@ -15,25 +15,50 @@ body{
 	font-weight: bold;
 }
 
+#n1:hover {
+	background: black;
+	color: white;
+}
+
+#n2:hover {
+	background: black;
+	color: white;
+}
+
+#n3:hover {
+	background: black;
+	color: white;
+}
+
 .bi-person-fill{
 	color: #BE1427;
 	margin-left: 23px;
+	position: relative;
 
-	}
+}
 
 .form-control{
 	margin-left: 5px;
 }
 
-.btn-outline-success{ hover
+.btn-outline-success{
 	color: black;
 	background: #86858B;
 }
+
+.btn-outline-success:hover {
+	background: orange;
+}
+
 
 .bi-search{
 	color: black;
 
 
+}
+
+.bi-search:hover {
+	color: white;
 }
 
 .dropdown-menu{
