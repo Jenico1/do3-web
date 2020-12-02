@@ -132,7 +132,7 @@ body{
 	border-bottom: 2.5px solid #BE1427;
 	display: inline-block;
 	font-size: 24px;
-	margin: 1;
+	margin: 0;
 	font-weight: bold;
 
 }
@@ -171,7 +171,6 @@ body{
 .Card_image{
 	width: 100%;
 	margin: 3px;
-	border-image: 50px;
 
 
 }
