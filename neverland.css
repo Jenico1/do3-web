@@ -52,15 +52,13 @@ body{
 
 
 .bi-search{
-	color: black;
-
+	color:#1B1A28;
 
 }
 
 .bi-search:hover {
 	color: white;
 }
-
 
 .dropdown-menu{
 	display: none;

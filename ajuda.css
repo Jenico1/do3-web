@@ -52,8 +52,7 @@ body{
 
 
 .bi-search{
-	color: black;
-
+	color:#1B1A28;
 
 }
 
@@ -110,8 +109,18 @@ body{
 }
 
 .btn-outline-success-2:hover{
-	background: white;
+	background: #CBCAD2;
 
+}
+
+.bi-search-2{
+	color: #1B1A28;
+
+
+}
+
+.bi-search-2:hover {
+	color: #2E3140;
 }
 
 .form-control-2{
