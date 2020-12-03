@@ -11,7 +11,7 @@ body{
 
 .nav-link{
 	color:#BE1427;
-	font-family: sans-serif;
+	font-family: Verdana,sans-serif;
 	font-weight: bold;
 }
 
@@ -64,7 +64,7 @@ body{
 	display: none;
 	background: #2E3140;
 	width: 230px;
-	height: 285px;
+	height: 270px;
 	border: 1px solid black;
 	margin-left: 160px;
 
@@ -77,7 +77,8 @@ body{
 
 .form-group{
 	color: #86858B;
-	font-family: sans-serif;
+	font-family: Verdana,sans-serif;
+	font-size: 15px;
 	margin-left: -20px;
 	margin-top: -15px;
 }
@@ -85,7 +86,8 @@ body{
 .btn-primary{
 	background: #BE1427;
 	color: #2E3140;
-	font-family: sans-serif;
+	font-family: Verdana,sans-serif;
+	font-size: 15px;
 	margin-left: -20px;
 	margin-top: -15px;
 }
@@ -97,9 +99,9 @@ body{
 
 .dropdown-item{
 	color: #86858B;
-	font-family: sans-serif;
+	font-family: Verdana,sans-serif;
+	font-size: 13px;
 	margin-left: -20px;
-	font-size: 14px;
 	
 }
 
@@ -128,7 +130,7 @@ body{
 	height: 37px;
 	background: #86858B;
 	color: #494949;
-	font-family: sans-serif;
+	font-family: Verdana,sans-serif;
 	font-weight: bold;
 }
 
@@ -142,7 +144,7 @@ body{
 
 .text-content{
 	color: #86858B;
-	font-family: sans-serif;
+	font-family: Verdana,sans-serif;
 	font-weight: bold;
 	margin-left: 30px;
 	margin-top: 15px;
@@ -151,7 +153,7 @@ body{
 
 .title-content{
 	color: #BE1427;
-	font-family: sans-serif;
+	font-family: Verdana,sans-serif;
 	font-weight: bold;
 	margin-left: 30px;
 	margin-top: 20px;
@@ -168,7 +170,7 @@ body{
 
 .text-footer{
 	color: #86858B;
-	font-family: sans-serif;
+	font-family: Verdana,sans-serif;
 	text-align: left;
 	font-weight: bold;
 	margin-left: -55px;
@@ -176,7 +178,7 @@ body{
 
 .title-footer{
 	color: #BE1427;
-	font-family: sans-serif;
+	font-family: Verdana,sans-serif;
 	text-align: left;
 	font-weight: bold;
 	margin-left: -45px;
@@ -184,7 +186,8 @@ body{
 
 #redes-sociais{
 	color: #86858B;
-	font-family: sans-serif;
+	font-family: Verdana,sans-serif;
+	font-size: 17px;
 	text-align: center;
 	font-weight: bold;
 	margin-left: 10px;
